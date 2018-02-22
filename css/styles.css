@@ -1,3 +1,11 @@
 h1 {
       color: #990000;
+      font-variant: small-caps;
+}
+
+a {
+      font-stretch: expanded;
+      font-family: sans-serif;
+      font-style: oblique;
+      font-variant: small-caps;
 }
