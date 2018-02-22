@@ -7,12 +7,10 @@ a {
       font-stretch: expanded;
 }
 
-
 .w3-button {
-    background-color: rgba(99,0,0,0.2);
+    background-color: rgba(99,0,0, 0.2);
 }
 
 h3 {
     color: #c6538c;
-    fon;
 }
