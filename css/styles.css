@@ -9,10 +9,13 @@ a {
 
 .button {
       color: red;
+
 h3 {
   color: #990000;
   font-variant: small-caps;
 }
+
 a {
       font-stretch: expanded;
       font-weight: bolder;
+}
