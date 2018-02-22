@@ -7,8 +7,9 @@ a {
       font-stretch: expanded;
 }
 
-.w3-modal {
-      color: red;
+.w3-button {
+      background-color: rgba(99,0,0,0.2);
+      border-style: hidden;
 
 h3 {
   color: #990000;
@@ -17,5 +18,5 @@ h3 {
 
 a {
       font-stretch: expanded;
-      font-weight: bolder;
+      font-weight: bold;
 }
